@@ -57,9 +57,6 @@ Day-10-Animated-CSS-Button/
     <li>Open a Pull Request</li>
 </ol>
 
-<h2>License</h2>
-<p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
-
 <h2>Contact</h2>
 <p>Yashi Singh - <a href="www.linkedin.com/in/yashi-singh-b4143a246">www.linkedin.com/in/yashi-singh-b4143a246</a></p>
 
